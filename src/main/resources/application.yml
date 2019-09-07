@@ -1,0 +1,13 @@
+person:
+    #lastName: zhangsan
+    list:
+      - yi
+      - er
+    map:
+         key1: v1
+         key2: v2
+    dog:
+         dogName: lili
+         age: 88
+
+
